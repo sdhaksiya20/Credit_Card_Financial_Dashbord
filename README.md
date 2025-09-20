@@ -13,8 +13,11 @@ An advanced business intelligence platform that analyzes credit card transaction
 Financial Performance Metrics
 
 Total Revenue: $56.5M generated from 46M transactions.
+
 Transaction Volume: 46M total transactions with $8M in interest earned.
+
 Customer Satisfaction Score (CSS): 3.19 indicating moderate satisfaction levels.
+
 Revenue Growth: Consistent quarterly growth from Q1 ($163.3K) to Q4 ($173.2K).
 
 Customer Demographics Analysis
