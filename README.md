@@ -68,6 +68,7 @@ Horizontal Bar Charts: Ranked performance across various dimensions.
 
 
 🛠️ Technology Stack
+
 The Dashboard was built using the following tools and technologies:
 
 Power BI Desktop - Main data visualization platform used for report creation.
@@ -77,6 +78,7 @@ Power Query - Data transformation and cleaning layer for reshaping and preparing
 DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
 
 File Format - pdf files and csv files for development and .png for dashboard previews.
+
 
 
 Screenshot /Demos:
