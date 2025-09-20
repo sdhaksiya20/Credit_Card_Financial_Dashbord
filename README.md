@@ -67,7 +67,7 @@ Donut Charts: Category and segment distribution visualization.
 Horizontal Bar Charts: Ranked performance across various dimensions.
 
 
-🛠️ Technology Stack
+6.🛠️ Technology Stack
 
 The Dashboard was built using the following tools and technologies:
 
