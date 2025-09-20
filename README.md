@@ -10,7 +10,7 @@ An advanced business intelligence platform that analyzes credit card transaction
 
 🔍 Key Business Insights
 
-Financial Performance Metrics
+1.Financial Performance Metrics
 
 Total Revenue: $56.5M generated from 46M transactions.
 
@@ -20,41 +20,64 @@ Customer Satisfaction Score (CSS): 3.19 indicating moderate satisfaction levels.
 
 Revenue Growth: Consistent quarterly growth from Q1 ($163.3K) to Q4 ($173.2K).
 
-Customer Demographics Analysis
+
+2.Customer Demographics Analysis
 
 Age Distribution: 40-50 age group leads with $25M revenue (44% of total).
+
 Gender Split: Males generate $30.9M (55%) vs Females $25.6M (45%).
+
 Geographic Performance: Texas leads with $13M, followed by New York ($13M).
+
 Education Impact: Graduates contribute $23M (41% of total revenue).
 
-📈 Transaction Analytics Dashboard
+
+3.📈 Transaction Analytics Dashboard
 
 Real-time KPI Monitoring: Live tracking of revenue, transaction volume, and interest earnings.
+
 Quarterly Performance Analysis: Interactive bar charts showing revenue trends across Q1-Q4.
+
 Transaction Volume Tracking: Dual-axis visualization of revenue vs transaction count.
+
 Card Category Breakdown: Comprehensive analysis of Blue, Gold, Silver, and Platinum card performance.
 
-👥 Customer Intelligence Dashboard
+
+4.👥 Customer Intelligence Dashboard
 
 Demographic Segmentation: Age group, gender, and geographic distribution analysis.
+
 Revenue Attribution: Customer job role and education level impact on revenue.
+
 Behavioral Analytics: Weekly transaction patterns and seasonal trends.
+
 Customer Satisfaction Monitoring: CSS score tracking and performance indicators.
 
-📊 Interactive Visualizations
+
+5.📊 Interactive Visualizations
 
 Dual-axis Charts: Revenue and transaction volume correlation.
+
 Stacked Bar Charts: Demographic comparisons across multiple categories.
+
 Time Series Analysis: Weekly revenue trends with seasonal patterns.
+
 Donut Charts: Category and segment distribution visualization.
+
 Horizontal Bar Charts: Ranked performance across various dimensions.
+
 
 🛠️ Technology Stack
 The Dashboard was built using the following tools and technologies:
+
 Power BI Desktop - Main data visualization platform used for report creation.
+
 Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+
 DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
+
 File Format - pdf files and csv files for development and .png for dashboard previews.
+
 
 Screenshot /Demos:
 https://github.com/sdhaksiya20/Credit_Card_Financial_Dashbord/blob/main/Transaction.png
